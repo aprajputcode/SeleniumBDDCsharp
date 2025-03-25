@@ -1,0 +1,7 @@
+{
+  //Chrome,Firefox,Edge
+  "Browser": "Chrome",
+  //local-headless,remote-headless,local,remote
+  "Runmode": "local",
+  "BaseUrl": "https://magento.softwaretestingboard.com/"
+}
