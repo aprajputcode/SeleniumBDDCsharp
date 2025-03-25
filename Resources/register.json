@@ -1,0 +1,10 @@
+{
+  "EndPoint": "customer/account/create/",
+  "FirstName": "#firstname",
+  "Lastname": "#lastname",
+  "EmailAddress": "#email_address",
+  "Password": "#password",
+  "ConfirmPassword": "#password-confirmation",
+  "CreateAccount": "(//button/span[text()='Create an Account'])[1]",
+  "AlertMessages": "//div[@class='messages' and @role='alert']"
+}
