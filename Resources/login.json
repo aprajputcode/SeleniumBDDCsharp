@@ -1,0 +1,7 @@
+{
+  "EndPoint": "customer/account/login",
+  "UserName": "#email",
+  "Password": "#pass",
+  "SignIn": "(//button/span[text()='Sign In'])[1]",
+  "AlertMessages": "//div[@class='messages' and @role='alert']"
+}
