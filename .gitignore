@@ -1,0 +1,7 @@
+[Bb]in/
+[Oo]bj/
+.vs/
+*.feature.cs
+*.html
+*.png
+*.jpg
